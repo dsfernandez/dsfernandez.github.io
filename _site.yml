@@ -1,0 +1,9 @@
+name: "Ecología Cuantitativa"
+output_dir: "."
+navbar:
+  title: "EcoCuanti"
+  left:
+    - text: "Intro"
+      href: intro.html
+    - text: "Tema 1"
+      href: tema1.html
