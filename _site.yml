@@ -1,7 +1,7 @@
-name: "Ecología Cuantitativa"
+name: "EcoCuanti"
 output_dir: "."
 navbar:
-  title: "EcoCuanti"
+  title: "Ecología Cuantitativa"
   left:
     - text: "Intro"
       href: intro.html
