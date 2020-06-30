@@ -1,12 +1,22 @@
-name: "EcoCuanti"
+name: "Ecología Cuantitativa"
 output_dir: "."
+favicon: images
 navbar:
   title: "Ecología Cuantitativa"
   left:
-    - text: "Intro"
-      href: intro.html
-    - text: "Tema 1"
-      href: tema1.html
+    - text: "Métodos"
+      menu:
+        - text: "Vegetación"
+          href: vegetacion.html
+        - text: "Animales"
+          href: animales.html
+    - text: "Datos"
+      href: datos.html
+      menu:
+        - text: "Bases de datos"
+          href: basesdatos.html
+        - text: "Data wrangling"
+          href: datawrang.html
 output:
   html_document:
     toc: true
