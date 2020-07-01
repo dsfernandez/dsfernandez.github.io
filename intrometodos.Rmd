@@ -1,0 +1,10 @@
+---
+title: "Introducción"
+---
+
+Voy a separar los métodos entre aquellos de medición directa, y los que estiman.
+
+## Métodos de medición directa
+
+
+## Meetodos de estimación

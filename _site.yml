@@ -6,12 +6,13 @@ navbar:
   left:
     - text: "Métodos"
       menu:
+        - text: "Introducción"
+          href: intrometodos.html
         - text: "Vegetación"
           href: vegetacion.html
         - text: "Animales"
           href: animales.html
     - text: "Datos"
-      href: datos.html
       menu:
         - text: "Bases de datos"
           href: basesdatos.html
