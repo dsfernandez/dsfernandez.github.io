@@ -1,0 +1,17 @@
+---
+title: "Introducción"
+---
+
+## Modelos empíricos
+
+## Series de tiempo
+
+## Modelos mecanísticos
+
+### Ecuaciones de diferencias
+
+### Ecuaciones diferenciales
+
+#### Sistemas de ecuaciones diferenciales
+
+## Modelos basados en agentes

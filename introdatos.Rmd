@@ -1,0 +1,13 @@
+---
+title: "Introducción"
+---
+
+## Tipos de datos
+
+## Estructura de datos
+
+## Fuentes de datos
+
+### Publicaciones
+
+### Bases de datos

@@ -14,21 +14,31 @@ navbar:
           href: animales.html
     - text: "Datos"
       menu:
+        - text: "Introducción"
+          href: introdatos.html        
         - text: "Bases de datos"
           href: basesdatos.html
         - text: "Data wrangling"
           href: datawrang.html
     - text: "Poblaciones"
       menu:
+        - text: "Introducción"
+          href: intropoblaciones.html
         - text: "Variabilidad Intraespecífica"
     - text: "Comunidades"
       menu:
+        - text: "Introducción"
+          href: introcomunidades.html      
         - text: "Vegetación"
     - text: "Modelos"
       menu:
+        - text: "Introducción"
+          href: intromodelos.html
         - text: "SRI"
     - text: "Aplicaciones"
       menu:
+        - text: "Introducción"
+          href: introaplicaciones.html
         - text: "Pesca sostenible"
 output:
   html_document:
