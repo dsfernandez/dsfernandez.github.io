@@ -1,7 +1,9 @@
 ---
+
 ---
 
-# Descripción
+# Se trata de ...
+Procedimientos computacionales, modelos y ejercicios para temas de cursos relacionados a la ecología, epidemiología, y gestión de recursos naturales.
 
 ## Cursos
 

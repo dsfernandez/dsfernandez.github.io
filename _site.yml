@@ -1,4 +1,4 @@
-name: "Ecología Cuantitativa"
+name: "EcoCuant"
 output_dir: "."
 favicon: images
 navbar:
@@ -17,6 +17,18 @@ navbar:
           href: basesdatos.html
         - text: "Data wrangling"
           href: datawrang.html
+    - text: "Poblaciones"
+      menu:
+        - text: "Variabilidad Intraespecífica"
+    - text: "Comunidades"
+      menu:
+        - text: "Vegetación"
+    - text: "Modelos"
+      menu:
+        - text: "SRI"
+    - text: "Aplicaciones"
+      menu:
+        - text: "Pesca sostenible"
 output:
   html_document:
     toc: true
